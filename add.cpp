@@ -10,7 +10,7 @@ int main()
     cin>> x>>y;
     cout<<"the addition results equals=";
     cout<<x+y;
-    
+    cout<<endl;
 
     return 0;
 }
